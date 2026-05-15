@@ -4,19 +4,19 @@
 
 Gauss's law states that
 
-$$
+```math
 \oint \mathbf{E}\cdot d\mathbf{A}
 =
-\frac{Q_{\text{enc}}}{\varepsilon_0}.
-$$
+\frac{Q_{\mathrm{enc}}}{\varepsilon_0}.
+```
 
-where $Q_{\text{enc}}$ is the total charge enclosed by the Gaussian surface.
+where $Q_{\mathrm{enc}}$ is the total charge enclosed by the Gaussian surface.
 
 Because the charge distribution is spherically symmetric, the electric field must be radial and depend only on the distance $r$ from the center:
 
-$$
+```math
 \mathbf{E}(r) = E(r)\hat{\mathbf{r}}.
-$$
+```
 
 ## Step 2: Choose a Gaussian surface
 
@@ -26,96 +26,96 @@ On this Gaussian surface, the electric field has constant magnitude and is paral
 
 Therefore,
 
-$$
+```math
 \oint \mathbf{E}\cdot d\mathbf{A}
 =
 E(r)\oint dA.
-$$
+```
 
 Since the surface area of a sphere is $4\pi r^2$,
 
-$$
+```math
 \oint \mathbf{E}\cdot d\mathbf{A}
 =
 E(r)4\pi r^2.
-$$
+```
 
 ## Step 3: Region inside the shell, $r < R$
 
 For a Gaussian sphere inside the shell, no charge is enclosed:
 
-$$
-Q_{\text{enc}} = 0.
-$$
+```math
+Q_{\mathrm{enc}} = 0.
+```
 
 Using Gauss's law,
 
-$$
+```math
 E(r)4\pi r^2 = \frac{0}{\varepsilon_0}.
-$$
+```
 
 Thus,
 
-$$
+```math
 E(r) = 0.
-$$
+```
 
 Therefore, for $r < R$,
 
-$$
+```math
 \mathbf{E}(r) = 0.
-$$
+```
 
 ## Step 4: Region outside the shell, $r > R$
 
 For a Gaussian sphere outside the shell, the full charge $Q$ is enclosed:
 
-$$
-Q_{\text{enc}} = Q.
-$$
+```math
+Q_{\mathrm{enc}} = Q.
+```
 
 Using Gauss's law,
 
-$$
+```math
 E(r)4\pi r^2 = \frac{Q}{\varepsilon_0}.
-$$
+```
 
 Solving for $E(r)$,
 
-$$
+```math
 E(r) =
 \frac{Q}{4\pi\varepsilon_0 r^2}.
-$$
+```
 
 Since the field is radial, we can write
 
-$$
+```math
 \mathbf{E}(r) =
 \frac{1}{4\pi\varepsilon_0}
 \frac{Q}{r^2}
 \hat{\mathbf{r}}.
-$$
+```
 
 ## Final Answer
 
 For $r < R$,
 
-$$
+```math
 \boxed{
 \mathbf{E}(r) = 0
 }
-$$
+```
 
 For $r > R$,
 
-$$
+```math
 \boxed{
 \mathbf{E}(r) =
 \frac{1}{4\pi\varepsilon_0}
 \frac{Q}{r^2}
 \hat{\mathbf{r}}
 }
-$$
+```
 
 ## Common Mistakes
 
