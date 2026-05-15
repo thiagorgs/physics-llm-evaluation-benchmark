@@ -87,7 +87,7 @@ E(r) =
 \frac{Q}{4\pi\varepsilon_0 r^2}.
 $$
 
-Since the field is radial,
+Since the field is radial, we can write
 
 $$
 \mathbf{E}(r) =
