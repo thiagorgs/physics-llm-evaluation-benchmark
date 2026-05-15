@@ -49,6 +49,7 @@ scripts/
 ## Current Examples
 
 - Classical Mechanics: Inclined plane with friction and an external force
+- Quantum Mechanics: Spin-1/2 particle in a magnetic field
 
 ## Status
 
