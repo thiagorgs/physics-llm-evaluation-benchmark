@@ -47,19 +47,3 @@ where $|+\rangle_z$ and $|-\rangle_z$ are eigenstates of $S_z$.
 $$
 \langle S_x(t)\rangle = \frac{\hbar}{2}\cos(\gamma Bt).
 $$
-2. Compute the expectation value \(\langle S_x(t)\rangle\).
-3. Interpret the physical meaning of the result.
-
-## Expected Reasoning Skills
-
-- Identification of energy eigenstates.
-- Time evolution under a time-independent Hamiltonian.
-- Use of spin operators and Pauli matrices.
-- Calculation of expectation values.
-- Physical interpretation of spin precession.
-
-## Target Result
-
-\[
-\langle S_x(t)\rangle = \frac{\hbar}{2}\cos(\gamma Bt).
-\]
