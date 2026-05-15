@@ -7,7 +7,7 @@ Gauss's law states that
 $$
 \oint \mathbf{E}\cdot d\mathbf{A}
 =
-\frac{Q_{\text{enc}}}{\varepsilon_0},
+\frac{Q_{\text{enc}}}{\varepsilon_0}.
 $$
 
 where $Q_{\text{enc}}$ is the total charge enclosed by the Gaussian surface.
