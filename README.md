@@ -49,6 +49,7 @@ scripts/
 ## Current Examples
 
 - Classical Mechanics: Inclined plane with friction and an external force
+- Electromagnetism: Electric field of a uniformly charged spherical shell
 - Quantum Mechanics: Spin-1/2 particle in a magnetic field
 - Statistical Physics: Two-level system and partition function
 
