@@ -45,3 +45,17 @@ rubrics/
 
 scripts/
   validate_dataset.py
+
+## Status
+
+This repository is under active development. Initial examples focus on physics reasoning tasks relevant to AI model evaluation, including multi-step problem solving, symbolic manipulation, and conceptual interpretation.
+
+## Current Examples
+
+- Classical Mechanics: Inclined plane with friction and an external force
+
+## Author
+
+Thiago Rocha Girão Souza  
+PhD Candidate in Physics  
+Quantum Computing | Quantum Dynamics | Scientific Python
