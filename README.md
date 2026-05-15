@@ -45,7 +45,7 @@ rubrics/
 
 scripts/
   validate_dataset.py
-
+```
 ## Current Examples
 
 - Classical Mechanics: Inclined plane with friction and an external force
